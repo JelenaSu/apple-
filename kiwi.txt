@@ -3,3 +3,4 @@
 kreiran novi file u remote repo
 
 editovan je u visual code-u .. pushovati promene u github
+evo opet promene da bi pushovali u remote repo
